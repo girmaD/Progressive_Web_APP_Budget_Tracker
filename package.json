@@ -6,11 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "lite-server": "lite-server",
-    "dev": "webpack --watch",
-    "build": "webpack --mode production",
-    "prestart": "npm run webpack",
-    "webpack": "webpack"
+    "lite-server": "lite-server"    
   },
   
   "author": "Girma Ebssa",
