@@ -7,7 +7,7 @@
 
 
 ## Description
-  This application is a progressive web application (PWA). The app works both online and offline. It is also installable as a native app on any platfrom be it android, ios or desktop. For this to happen the app uses PWA technologies such as service-workers, manifest.json and index DB from a browser. If the user uses older brower that doesn't support PWA technologies, the app still works as a regulat web app.  With this app, a user can enter transactions (both deposit and expenses) with or without good internet connection. That capability makes it perform like a native app. The app displays all transactions in a table as well as in gragh.    
+  This application is a progressive web application (PWA). The app works both online and offline. It is also installable as a native app on any platfrom be it android, ios or desktop. For this to happen the app uses PWA technologies such as service-workers, manifest.json and index DB from a browser. If the user uses older brower that doesn't support PWA technologies, the app still works as a regular web app.  With this app, a user can enter transactions (both deposit and expenses) with or without good internet connection. That capability makes it perform like a native app. The app displays all transactions in a table as well as in gragh.    
 
 ## Table Of Contents 
 * [Installation Instructions](#Installation-Instructions)
@@ -23,7 +23,7 @@
  * fork and use it.
  * Don't forget to install all the modules this app depends on.
  * npm i -> will install all the dependecies
- * Install it like a native app in your machine by clicking the + sign on the url bar on computer or clicking install all on your phone.
+ * Install it like a native app in your machine by clicking the + sign on the url bar on desktop or clicking install app on your phone.
 
 ## How To Use The App
 - If you fork it, launch the app on the terminal - using (npm start) or launch it on heroku using the provided heroku link.
